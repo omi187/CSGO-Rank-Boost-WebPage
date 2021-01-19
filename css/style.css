@@ -1,0 +1,23 @@
+body {
+    min-width: 360px;
+}
+
+.flex-center ul li {
+    margin-bottom: 0;
+}
+
+.select-dropdown {
+    color: white;
+
+    width: 300px !important;
+}
+
+.select-dropdown li img {
+    height: 20px;
+    width: auto;
+    margin: 8px 12px;
+}
+
+.caret {
+    color: white !important;
+}
